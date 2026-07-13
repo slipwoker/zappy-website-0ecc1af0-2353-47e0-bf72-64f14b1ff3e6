@@ -1,0 +1,96 @@
+# casa verona — Generative Engine Optimization Map
+
+> Casa Verona is a luxury furniture brand with a classic and elegant identity. The brand offers a wide range of high-end home furniture including living room sets, sideboards, dining corners, chairs, bar stools, outdoor lounges, and beds. The overall aesthetic vision for the brand is sophisticated, timeless, and beautiful — reflecting a premium lifestyle experience.
+
+---
+
+## Pages
+
+### בית
+https://casa-verona-0ecc1af0.zappy5.app
+מותג ריהוט יוקרה קלאסי ואלגנטי. גלו קולקציות מרהיבות לסלון, פינת אוכל, חדרי שינה וחללי חוץ. הפכו כל פינה בבית לחוויה מעוצבת ונצחית עם casa verona.
+
+### חללי מגורים
+https://casa-verona-0ecc1af0.zappy5.app/living-spaces
+הפכו את חלל המגורים למרכז הבית עם סטים אלגנטיים, מזנונים מעוצבים ופרטי ריהוט על-זמניים. גלו השראה לעיצוב סלון יוקרתי שמספר את הסיפור שלכם.
+
+### פינות אוכל
+https://casa-verona-0ecc1af0.zappy5.app/dining-spaces
+צרו פינת אוכל מעוררת התפעלות עם שולחנות, כיסאות ובר כסאות בעיצוב קלאסי. כל ארוחה הופכת לאירוע יוקרתי עם הריהוט המעודן של casa verona.
+
+### קולקציית חדרי שינה
+https://casa-verona-0ecc1af0.zappy5.app/bedroom-collection
+גלו את קולקציית חדרי השינה היוקרתית שלנו: מיטות מרהיבות, שידות אלגנטיות וטקסטיל מפנק. צרו מקדש של רוגע וסטייל אישי עם casa verona.
+
+### מגורים בחוץ
+https://casa-verona-0ecc1af0.zappy5.app/outdoor-living
+הפכו את המרפסת או הגינה לטרקלין חוץ יוקרתי עם טרקליני גן, כסאות מעוצבים ופרטי השלמה. תיהנו מחוויית מגורים בחוץ מושלמת עם casa verona.
+
+### צור קשר
+https://casa-verona-0ecc1af0.zappy5.app/contact
+מוכנים להפוך את הבית ליצירת מופת? צרו קשר עוד היום עם המומחים של casa verona לייעוץ אישי, התאמת ריהוט יוקרה והגשמת החזון העיצובי שלכם.
+
+### Products
+https://casa-verona-0ecc1af0.zappy5.app/products
+המוצרים שלנו - casa verona
+
+### Product Detail
+https://casa-verona-0ecc1af0.zappy5.app/product/:slug
+פרטי המוצר - casa verona
+
+### Category
+https://casa-verona-0ecc1af0.zappy5.app/category/:slug
+מוצרים - casa verona
+
+### תודה רבה
+https://casa-verona-0ecc1af0.zappy5.app/thank-you
+casa verona - תודה רבה
+
+## Legal & Policy
+
+### Privacy Policy
+https://casa-verona-0ecc1af0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://casa-verona-0ecc1af0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://casa-verona-0ecc1af0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About casa verona
+Casa Verona is a luxury furniture brand with a classic and elegant identity. The brand offers a wide range of high-end home furniture including living room sets, sideboards, dining corners, chairs, bar stools, outdoor lounges, and beds. The overall aesthetic vision for the brand is sophisticated, timeless, and beautiful — reflecting a premium lifestyle experience.
+
+## Target Audience
+- בעלי בתים בעלי הכנסה גבוהה
+- מעצבי פנים
+- בעלי דירות יוקרה חדשות
+- משקיעים במלונות יוקרה
+- בעלי דירות
+- זוגות נשואים
+- שוכרי דירות
+
+## Industry
+Furniture & Home Decor
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://casa-verona-0ecc1af0.zappy5.app/sitemap.xml
+- Robots: https://casa-verona-0ecc1af0.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://casa-verona-0ecc1af0.zappy5.app/llms-full.txt
+- Products (JSON): https://casa-verona-0ecc1af0.zappy5.app/products.json
+- Products (Google Merchant RSS): https://casa-verona-0ecc1af0.zappy5.app/product-feed.xml
